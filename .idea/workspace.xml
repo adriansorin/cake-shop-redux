@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abbca398-8bc2-42a1-b306-2f1f8ed8f9b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/HooksCakeContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/IceCreamContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/iceCream/iceCreamActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/iceCream/iceCreamReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/iceCream/iceCreamTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/rootReducer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CakeContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CakeContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HooksCakeContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HooksCakeContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/store.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577350457177</updated>
-      <workItem from="1577350459381" duration="2661000" />
+      <workItem from="1577350459381" duration="3490000" />
     </task>
     <servers />
   </component>

@@ -3,7 +3,7 @@ import { useSelector, useDispatch } from "react-redux";
 import {buyCake} from "../redux";
 
 function HooksCakeContainer() {
-    const nymberOfCakes = useSelector(state => state.numberOfCakes)
+    const nymberOfCakes = useSelector(state => state.cake.numberOfCakes)
     const dispatch = useDispatch()
     return (
         <div>
