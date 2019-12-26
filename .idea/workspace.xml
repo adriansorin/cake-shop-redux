@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abbca398-8bc2-42a1-b306-2f1f8ed8f9b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/NewCakeContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ItemContainer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/cake/cakeActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/cake/cakeActions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/cake/cakeReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/cake/cakeReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/iceCream/iceCreamReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/iceCream/iceCreamReducer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577350457177</updated>
-      <workItem from="1577350459381" duration="3854000" />
+      <workItem from="1577350459381" duration="4566000" />
     </task>
     <servers />
   </component>
